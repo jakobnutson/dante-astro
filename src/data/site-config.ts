@@ -51,33 +51,33 @@ const siteConfig: SiteConfig = {
     headerNavLinks: [
         {
             text: 'Home',
-            href: '/'
+            href: '/dante-astro'
         },
         {
             text: 'Projects',
-            href: '/projects'
+            href: '/dante-astro/projects'
         },
         {
             text: 'Blog',
-            href: '/blog'
+            href: '/dante-astro/blog'
         },
         {
             text: 'Tags',
-            href: '/tags'
+            href: '/dante-astro/tags'
         }
     ],
     footerNavLinks: [
         {
             text: 'About',
-            href: '/about'
+            href: '/dante-astro/about'
         },
         {
             text: 'Contact',
-            href: '/contact'
+            href: '/dante-astro/contact'
         },
         {
             text: 'Terms',
-            href: '/terms'
+            href: '/dante-astro/terms'
         },
         // {
         //     text: 'Download theme',
@@ -111,7 +111,7 @@ const siteConfig: SiteConfig = {
         actions: [
             {
                 text: 'Get in Touch',
-                href: '/contact'
+                href: '/dante-astro/contact'
             }
         ]
     },
